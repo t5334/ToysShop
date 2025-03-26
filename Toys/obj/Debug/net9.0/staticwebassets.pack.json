@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "M:\\web-api\\Toys\\Toys\\wwwroot\\home.html",
+      "PackagePath": "staticwebassets\\home.html"
+    },
+    {
+      "Id": "M:\\web-api\\Toys\\Toys\\wwwroot\\home.js",
+      "PackagePath": "staticwebassets\\home.js"
+    },
+    {
+      "Id": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.html",
+      "PackagePath": "staticwebassets\\update.html"
+    },
+    {
+      "Id": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.js",
+      "PackagePath": "staticwebassets\\update.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Toys.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Toys.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Toys.props",
+      "PackagePath": "build\\Toys.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Toys.props",
+      "PackagePath": "buildMultiTargeting\\Toys.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Toys.props",
+      "PackagePath": "buildTransitive\\Toys.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
