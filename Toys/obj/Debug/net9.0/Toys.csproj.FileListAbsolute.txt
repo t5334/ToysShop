@@ -17,8 +17,6 @@ M:\web-api\Toys\Toys\obj\Debug\net9.0\Toys.csproj.CoreCompileInputs.cache
 M:\web-api\Toys\Toys\obj\Debug\net9.0\Toys.MvcApplicationPartsAssemblyInfo.cs
 M:\web-api\Toys\Toys\obj\Debug\net9.0\Toys.MvcApplicationPartsAssemblyInfo.cache
 M:\web-api\Toys\Toys\obj\Debug\net9.0\scopedcss\bundle\Toys.styles.css
-M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\g0qr8l60ag-qwnrxm6or9.gz
-M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\ifdgrx4xwt-ot59g3imvc.gz
 M:\web-api\Toys\Toys\obj\Debug\net9.0\staticwebassets.build.json
 M:\web-api\Toys\Toys\obj\Debug\net9.0\staticwebassets.development.json
 M:\web-api\Toys\Toys\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -35,5 +33,8 @@ M:\web-api\Toys\Toys\obj\Debug\net9.0\refint\Toys.dll
 M:\web-api\Toys\Toys\obj\Debug\net9.0\Toys.pdb
 M:\web-api\Toys\Toys\obj\Debug\net9.0\Toys.genruntimeconfig.cache
 M:\web-api\Toys\Toys\obj\Debug\net9.0\ref\Toys.dll
-M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\skmues0qvn-qah4itrzjs.gz
 M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\drgwes7pwf-1an97edgwh.gz
+M:\web-api\Toys\Toys\obj\Debug\net9.0\Toys.sourcelink.json
+M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\skmues0qvn-b774pdrs19.gz
+M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\g0qr8l60ag-f2w14lou9p.gz
+M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\ifdgrx4xwt-argcv9gzkz.gz

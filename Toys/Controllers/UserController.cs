@@ -57,8 +57,31 @@ namespace Toys.Controllers
 
         // PUT api/<UserController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody]User user)
+        public ActionResult<User> Put(int id, [FromBody]User userToUpdate)
         {
+            string filePath = "M:\\web-api\\user.txt";
+            string textToReplace = string.Empty;
+            using (StreamReader reader = System.IO.File.OpenText("M:\\web-api\\user.txt"))
+            {
+                string currentUserInFile;
+                while ((currentUserInFile = reader.ReadLine()) != null)
+                {
+
+                    User user = JsonSerializer.Deserialize<User>(currentUserInFile);
+                    if (user.userId == id)
+                        textToReplace = currentUserInFile;
+                }
+            }
+
+            if (textToReplace != string.Empty)
+            {
+                string text = System.IO.File.ReadAllText(filePath);
+                text = text.Replace(textToReplace, JsonSerializer.Serialize(userToUpdate));
+                System.IO.File.WriteAllText(filePath, text);
+                return Ok(userToUpdate);
+            }
+            return NotFound(new { Message = "User not found" });
+
 
         }
 

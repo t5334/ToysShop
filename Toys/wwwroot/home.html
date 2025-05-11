@@ -1,25 +1,175 @@
-﻿<!D<!DOCTYPE html>
-<html>
+﻿<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="utf-8" />
-    <title></title>
-    <script src="home.js"></script>
+    <title>Login and Registration</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="home.js" defer></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        label {
+            display: block;
+            margin: 10px 0 5px;
+            color: #555;
+        }
+
+        input[type="text"], input[type="password"] {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #5cb85c;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background-color: #4cae4c;
+            }
+
+        .register-form {
+            display: none; /* Initially hidden */
+        }
+    </style>
 </head>
 <body>
-    <label for="userName1">username</label>
-    <input id="userName1" /><br />
-    <label for="password1">password</label>
-    <input id="password1" type="password"/><br />
-    <button onclick="Login()">login</button><br />
+    <div class="container">
+        <h2>Login</h2>
+        <label for="userName1">Username</label>
+        <input id="userName1" type="text" /><br />
+        <label for="password1">Password</label>
+        <input id="password1" type="password" /><br />
+        <button onclick="Login()">Login</button><br />
 
-    <label for="userName">username</label>
-    <input id="userName" /><br />
-    <label for="password" >password</label>
-    <input id="password" type="password"/><br />
-    <label for="FirstName">firstname</label>
-    <input id="FirstName" /><br />
-    <label for="LastName">lastname</label>
-    <input id="LastName" /><br />
-    <button onclick="Register()">register</button>
+        <button onclick="toggleRegister()">Toggle Registration</button>
+
+        <div class="register-form">
+            <h2>Register</h2>
+            <label for="userName">Username</label>
+            <input id="userName" type="text" /><br />
+            <label for="password">Password</label>
+            <input id="password" type="password" /><br />
+            <label for="FirstName">First Name</label>
+            <input id="FirstName" type="text" /><br />
+            <label for="LastName">Last Name</label>
+            <input id="LastName" type="text" /><br />
+            <button onclick="Register()">Register</button>
+        </div>
+    </div>
+
+    <script>
+        function toggleRegister() {
+            const registerForm = document.querySelector('.register-form');
+            registerForm.style.display = registerForm.style.display === 'none' || registerForm.style.display === '' ? 'block' : 'none';
+        }
+    </script>
 </body>
 </html>
+<!--<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Login and Registration</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="home.js" defer></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        label {
+            display: block;
+            margin: 10px 0 5px;
+            color: #555;
+        }
+
+        input[type="text"], input[type="password"] {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #5cb85c;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background-color: #4cae4c;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Login</h2>
+        <label for="userName1">Username</label>
+        <input id="userName1" type="text" /><br />
+        <label for="password1">Password</label>
+        <input id="password1" type="password" /><br />
+        <button onclick="Login()">Login</button><br />
+
+        <h2>Register</h2>
+        <label for="userName">Username</label>
+        <input id="userName" type="text" /><br />
+        <label for="password">Password</label>
+        <input id="password" type="password" /><br />
+        <label for="FirstName">First Name</label>
+        <input id="FirstName" type="text" /><br />
+        <label for="LastName">Last Name</label>
+        <input id="LastName" type="text" /><br />
+        <button onclick="Register()">Register</button>
+    </div>
+</body>
+</html>-->
