@@ -59,15 +59,19 @@
         "IsRequired": true
       },
       {
-        "Name": "user",
+        "Name": "userToUpdate",
         "Type": "Toys.User",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
+        "Type": "Toys.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
         "StatusCode": 200
       }
     ]
