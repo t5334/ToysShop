@@ -2,7 +2,7 @@
 using Entities;
 namespace Reposirories
 {
-    public class UserRepository
+    public class UserRepository : IUserRepository
     {
         public string filePath = "M:\\web-api\\user.txt";
         public User register(User user)
@@ -26,7 +26,7 @@ namespace Reposirories
                 {
                     User user1 = JsonSerializer.Deserialize<User>(currentUserInFile);
                     if (user.userName == user1.userName && user.password == user1.password)
-                        return user;
+                        return user1;
                 }
                 return null;
             }

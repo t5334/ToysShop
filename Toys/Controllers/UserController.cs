@@ -11,9 +11,13 @@ namespace Toys.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        UserService userService=new UserService();
+        IUserService userService;
+        public UserController(IUserService userService)
+        {
+            this.userService = userService;
+        }
 
-         //GET: api/<UserController>
+        //GET: api/<UserController>
         [HttpGet]
         public IEnumerable<string> Get()
         {
@@ -32,30 +36,31 @@ namespace Toys.Controllers
         public ActionResult<User> Post([FromBody]User user) 
         {
             User user2 = userService.register(user);
-            return CreatedAtAction(nameof(Get), new { id = user.userId }, user2);
+            return CreatedAtAction("Get", new { id = user.userId }, user2);
         }
 
         [HttpPost("login")]
         public ActionResult<User> Postlogin([FromBody] User user)
         {
-
-                        return Ok();//user1
-            //    }
-            //}
-            //return NotFound(new { Message = "User not found." });
+            User user1 = userService.login(user);
+            if (user1 is not null)
+            {
+                return Ok(user1);
+            }
+            return NotFound(new { Message = "User not found." });
         }
 
         // PUT api/<UserController>/5
         [HttpPut("{id}")]
-        public ActionResult<User> Put(int id, [FromBody]User userToUpdate)
+        public ActionResult<User> Put(int id, [FromBody] User userToUpdate)
         {
-           
-           
-            //    return Ok(userToUpdate);
-            //}
+            User user = userService.updateUser(id, userToUpdate);
+            if (user is not null)
+            {
+                return Ok(user);
+            }
+
             return NotFound(new { Message = "User not found" });
-
-
         }
 
         // DELETE api/<UserController>/5
@@ -63,5 +68,7 @@ namespace Toys.Controllers
         public void Delete(int id)
         {
         }
+
+
     }
 }

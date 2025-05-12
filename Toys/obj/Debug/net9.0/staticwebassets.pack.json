@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\home.js"
     },
     {
+      "Id": "M:\\web-api\\Toys\\Toys\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
       "Id": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.html",
       "PackagePath": "staticwebassets\\update.html"
     },
