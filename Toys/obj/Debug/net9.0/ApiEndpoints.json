@@ -60,13 +60,13 @@
       },
       {
         "Name": "userToUpdate",
-        "Type": "Toys.User",
+        "Type": "Entities.User",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Toys.User",
+        "Type": "Entities.User",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -108,13 +108,13 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "Toys.User",
+        "Type": "Entities.User",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Toys.User",
+        "Type": "Entities.User",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -134,13 +134,13 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "Toys.User",
+        "Type": "Entities.User",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Toys.User",
+        "Type": "Entities.User",
         "MediaTypes": [
           "text/plain",
           "application/json",

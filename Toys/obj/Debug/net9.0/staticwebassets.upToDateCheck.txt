@@ -1,8 +1,10 @@
+M:\web-api\Toys\Toys\wwwroot\styles.css
 M:\web-api\Toys\Toys\wwwroot\home.js
 M:\web-api\Toys\Toys\wwwroot\update.html
 M:\web-api\Toys\Toys\wwwroot\update.js
 M:\web-api\Toys\Toys\wwwroot\home.html
 wwwroot\home.html
 wwwroot\home.js
+wwwroot\styles.css
 wwwroot\update.html
 wwwroot\update.js

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "okLhohjjGXGfZTjhXua4SRHxvZwaVUqwbePVIIKjO4g=",
+  "Hash": "DwrxKhUYAYVpk29RwDQ5IMDKwFZR1TtNJovOWwhpNeY=",
   "Source": "Toys",
   "BasePath": "_content/Toys",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\9mrk22zfsg-zk6ndaxgzn.gz",
+      "SourceId": "Toys",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Toys",
+      "RelativePath": "styles#[.{fingerprint=zk6ndaxgzn}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "M:\\web-api\\Toys\\Toys\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fks3hlqku1",
+      "Integrity": "X3hcilPsWg4aR1wj0amvvlUab3ZHV17C5hjBwJRZ4FM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "M:\\web-api\\Toys\\Toys\\wwwroot\\styles.css"
+    },
     {
       "Identity": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\drgwes7pwf-1an97edgwh.gz",
       "SourceId": "Toys",
@@ -59,12 +80,12 @@
       "OriginalItemSpec": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.html"
     },
     {
-      "Identity": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-argcv9gzkz.gz",
+      "Identity": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-603b2phdi1.gz",
       "SourceId": "Toys",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Toys",
-      "RelativePath": "update#[.{fingerprint=argcv9gzkz}]?.js.gz",
+      "RelativePath": "update#[.{fingerprint=603b2phdi1}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,8 +94,8 @@
       "RelatedAsset": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7vgtwkn2hl",
-      "Integrity": "o9q56UliLVAlNSBu1C3BL9h5IX5PbDg28rwf1Kd+z78=",
+      "Fingerprint": "3tua9crgck",
+      "Integrity": "iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.js"
@@ -143,6 +164,27 @@
       "OriginalItemSpec": "wwwroot\\home.js"
     },
     {
+      "Identity": "M:\\web-api\\Toys\\Toys\\wwwroot\\styles.css",
+      "SourceId": "Toys",
+      "SourceType": "Discovered",
+      "ContentRoot": "M:\\web-api\\Toys\\Toys\\wwwroot\\",
+      "BasePath": "_content/Toys",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zk6ndaxgzn",
+      "Integrity": "7dkjVyfS+faMmQOTPIdCKBifulypZeQV5MfDeL3CZ6Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    },
+    {
       "Identity": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.html",
       "SourceId": "Toys",
       "SourceType": "Discovered",
@@ -178,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "argcv9gzkz",
-      "Integrity": "1uLGftD13a1892xSxaD47Co+rVbd/gn1JmgEJSBgK88=",
+      "Fingerprint": "603b2phdi1",
+      "Integrity": "CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\update.js"
@@ -372,7 +414,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:23:00 GMT"
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -433,7 +475,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:23:00 GMT"
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -478,7 +520,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:23:00 GMT"
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -533,7 +575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:23:00 GMT"
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -586,7 +628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:23:00 GMT"
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -623,7 +665,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:23:00 GMT"
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -783,13 +825,13 @@
       ]
     },
     {
-      "Route": "update.argcv9gzkz.js",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-argcv9gzkz.gz",
+      "Route": "styles.css",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\9mrk22zfsg-zk6ndaxgzn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002070393375"
+          "Quality": "0.018867924528"
         }
       ],
       "ResponseHeaders": [
@@ -799,15 +841,313 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "482"
+          "Value": "52"
         },
         {
           "Name": "ETag",
-          "Value": "\"o9q56UliLVAlNSBu1C3BL9h5IX5PbDg28rwf1Kd+z78=\""
+          "Value": "\"X3hcilPsWg4aR1wj0amvvlUab3ZHV17C5hjBwJRZ4FM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:51:02 GMT"
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7dkjVyfS+faMmQOTPIdCKBifulypZeQV5MfDeL3CZ6Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7dkjVyfS+faMmQOTPIdCKBifulypZeQV5MfDeL3CZ6Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7dkjVyfS+faMmQOTPIdCKBifulypZeQV5MfDeL3CZ6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7dkjVyfS+faMmQOTPIdCKBifulypZeQV5MfDeL3CZ6Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\9mrk22zfsg-zk6ndaxgzn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X3hcilPsWg4aR1wj0amvvlUab3ZHV17C5hjBwJRZ4FM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X3hcilPsWg4aR1wj0amvvlUab3ZHV17C5hjBwJRZ4FM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.zk6ndaxgzn.css",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\9mrk22zfsg-zk6ndaxgzn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.018867924528"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X3hcilPsWg4aR1wj0amvvlUab3ZHV17C5hjBwJRZ4FM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7dkjVyfS+faMmQOTPIdCKBifulypZeQV5MfDeL3CZ6Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk6ndaxgzn"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7dkjVyfS+faMmQOTPIdCKBifulypZeQV5MfDeL3CZ6Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles.zk6ndaxgzn.css",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7dkjVyfS+faMmQOTPIdCKBifulypZeQV5MfDeL3CZ6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk6ndaxgzn"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7dkjVyfS+faMmQOTPIdCKBifulypZeQV5MfDeL3CZ6Q="
+        }
+      ]
+    },
+    {
+      "Route": "styles.zk6ndaxgzn.css.gz",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\9mrk22zfsg-zk6ndaxgzn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X3hcilPsWg4aR1wj0amvvlUab3ZHV17C5hjBwJRZ4FM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:03:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk6ndaxgzn"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X3hcilPsWg4aR1wj0amvvlUab3ZHV17C5hjBwJRZ4FM="
+        }
+      ]
+    },
+    {
+      "Route": "update.603b2phdi1.js",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-603b2phdi1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001893939394"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "527"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 13:35:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -827,13 +1167,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1uLGftD13a1892xSxaD47Co+rVbd/gn1JmgEJSBgK88=\""
+          "Value": "W/\"CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "argcv9gzkz"
+          "Value": "603b2phdi1"
         },
         {
           "Name": "label",
@@ -841,12 +1181,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1uLGftD13a1892xSxaD47Co+rVbd/gn1JmgEJSBgK88="
+          "Value": "sha256-CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY="
         }
       ]
     },
     {
-      "Route": "update.argcv9gzkz.js",
+      "Route": "update.603b2phdi1.js",
       "AssetFile": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -856,7 +1196,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1155"
+          "Value": "1293"
         },
         {
           "Name": "Content-Type",
@@ -864,11 +1204,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1uLGftD13a1892xSxaD47Co+rVbd/gn1JmgEJSBgK88=\""
+          "Value": "\"CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:51:02 GMT"
+          "Value": "Mon, 12 May 2025 13:35:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -878,7 +1218,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "argcv9gzkz"
+          "Value": "603b2phdi1"
         },
         {
           "Name": "label",
@@ -886,13 +1226,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1uLGftD13a1892xSxaD47Co+rVbd/gn1JmgEJSBgK88="
+          "Value": "sha256-CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY="
         }
       ]
     },
     {
-      "Route": "update.argcv9gzkz.js.gz",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-argcv9gzkz.gz",
+      "Route": "update.603b2phdi1.js.gz",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-603b2phdi1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -901,7 +1241,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "482"
+          "Value": "527"
         },
         {
           "Name": "Content-Type",
@@ -909,11 +1249,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o9q56UliLVAlNSBu1C3BL9h5IX5PbDg28rwf1Kd+z78=\""
+          "Value": "\"iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:51:02 GMT"
+          "Value": "Mon, 12 May 2025 13:35:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -931,7 +1271,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "argcv9gzkz"
+          "Value": "603b2phdi1"
         },
         {
           "Name": "label",
@@ -939,7 +1279,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-o9q56UliLVAlNSBu1C3BL9h5IX5PbDg28rwf1Kd+z78="
+          "Value": "sha256-iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4="
         }
       ]
     },
@@ -1243,12 +1583,12 @@
     },
     {
       "Route": "update.js",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-argcv9gzkz.gz",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-603b2phdi1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002070393375"
+          "Quality": "0.001893939394"
         }
       ],
       "ResponseHeaders": [
@@ -1258,15 +1598,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "482"
+          "Value": "527"
         },
         {
           "Name": "ETag",
-          "Value": "\"o9q56UliLVAlNSBu1C3BL9h5IX5PbDg28rwf1Kd+z78=\""
+          "Value": "\"iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:51:02 GMT"
+          "Value": "Mon, 12 May 2025 13:35:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1286,13 +1626,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1uLGftD13a1892xSxaD47Co+rVbd/gn1JmgEJSBgK88=\""
+          "Value": "W/\"CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1uLGftD13a1892xSxaD47Co+rVbd/gn1JmgEJSBgK88="
+          "Value": "sha256-CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY="
         }
       ]
     },
@@ -1307,7 +1647,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1155"
+          "Value": "1293"
         },
         {
           "Name": "Content-Type",
@@ -1315,11 +1655,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1uLGftD13a1892xSxaD47Co+rVbd/gn1JmgEJSBgK88=\""
+          "Value": "\"CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:51:02 GMT"
+          "Value": "Mon, 12 May 2025 13:35:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1329,13 +1669,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1uLGftD13a1892xSxaD47Co+rVbd/gn1JmgEJSBgK88="
+          "Value": "sha256-CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY="
         }
       ]
     },
     {
       "Route": "update.js.gz",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-argcv9gzkz.gz",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-603b2phdi1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1344,7 +1684,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "482"
+          "Value": "527"
         },
         {
           "Name": "Content-Type",
@@ -1352,11 +1692,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o9q56UliLVAlNSBu1C3BL9h5IX5PbDg28rwf1Kd+z78=\""
+          "Value": "\"iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 12:51:02 GMT"
+          "Value": "Mon, 12 May 2025 13:35:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1374,7 +1714,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-o9q56UliLVAlNSBu1C3BL9h5IX5PbDg28rwf1Kd+z78="
+          "Value": "sha256-iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4="
         }
       ]
     }

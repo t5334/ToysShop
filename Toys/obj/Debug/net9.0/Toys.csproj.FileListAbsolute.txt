@@ -35,6 +35,14 @@ M:\web-api\Toys\Toys\obj\Debug\net9.0\Toys.genruntimeconfig.cache
 M:\web-api\Toys\Toys\obj\Debug\net9.0\ref\Toys.dll
 M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\drgwes7pwf-1an97edgwh.gz
 M:\web-api\Toys\Toys\obj\Debug\net9.0\Toys.sourcelink.json
-M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\skmues0qvn-b774pdrs19.gz
 M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\g0qr8l60ag-f2w14lou9p.gz
-M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\ifdgrx4xwt-argcv9gzkz.gz
+M:\web-api\Toys\Toys\bin\Debug\net9.0\Entities.dll
+M:\web-api\Toys\Toys\bin\Debug\net9.0\Reposirories.dll
+M:\web-api\Toys\Toys\bin\Debug\net9.0\Services.dll
+M:\web-api\Toys\Toys\bin\Debug\net9.0\Services.pdb
+M:\web-api\Toys\Toys\bin\Debug\net9.0\Entities.pdb
+M:\web-api\Toys\Toys\bin\Debug\net9.0\Reposirories.pdb
+M:\web-api\Toys\Toys\bin\Debug\net9.0\zxcvbn-core.dll
+M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\skmues0qvn-b774pdrs19.gz
+M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\9mrk22zfsg-zk6ndaxgzn.gz
+M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\ifdgrx4xwt-603b2phdi1.gz
