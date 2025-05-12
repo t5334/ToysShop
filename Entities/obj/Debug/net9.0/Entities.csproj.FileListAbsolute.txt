@@ -1,0 +1,12 @@
+M:\web-api\Toys\Entities\bin\Debug\net9.0\Entities.deps.json
+M:\web-api\Toys\Entities\bin\Debug\net9.0\Entities.dll
+M:\web-api\Toys\Entities\bin\Debug\net9.0\Entities.pdb
+M:\web-api\Toys\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+M:\web-api\Toys\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+M:\web-api\Toys\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+M:\web-api\Toys\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+M:\web-api\Toys\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+M:\web-api\Toys\Entities\obj\Debug\net9.0\Entities.dll
+M:\web-api\Toys\Entities\obj\Debug\net9.0\refint\Entities.dll
+M:\web-api\Toys\Entities\obj\Debug\net9.0\Entities.pdb
+M:\web-api\Toys\Entities\obj\Debug\net9.0\ref\Entities.dll

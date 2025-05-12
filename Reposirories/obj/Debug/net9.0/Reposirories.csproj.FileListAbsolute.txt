@@ -1,0 +1,16 @@
+M:\web-api\Toys\Reposirories\bin\Debug\net9.0\Reposirories.deps.json
+M:\web-api\Toys\Reposirories\bin\Debug\net9.0\Reposirories.dll
+M:\web-api\Toys\Reposirories\bin\Debug\net9.0\Reposirories.pdb
+M:\web-api\Toys\Reposirories\obj\Debug\net9.0\Reposirories.GeneratedMSBuildEditorConfig.editorconfig
+M:\web-api\Toys\Reposirories\obj\Debug\net9.0\Reposirories.AssemblyInfoInputs.cache
+M:\web-api\Toys\Reposirories\obj\Debug\net9.0\Reposirories.AssemblyInfo.cs
+M:\web-api\Toys\Reposirories\obj\Debug\net9.0\Reposirories.csproj.CoreCompileInputs.cache
+M:\web-api\Toys\Reposirories\obj\Debug\net9.0\Reposirories.sourcelink.json
+M:\web-api\Toys\Reposirories\obj\Debug\net9.0\Reposirories.dll
+M:\web-api\Toys\Reposirories\obj\Debug\net9.0\refint\Reposirories.dll
+M:\web-api\Toys\Reposirories\obj\Debug\net9.0\Reposirories.pdb
+M:\web-api\Toys\Reposirories\obj\Debug\net9.0\ref\Reposirories.dll
+M:\web-api\Toys\Reposirories\bin\Debug\net9.0\Entities.dll
+M:\web-api\Toys\Reposirories\bin\Debug\net9.0\Entities.pdb
+M:\web-api\Toys\Reposirories\obj\Debug\net9.0\Reposirories.csproj.AssemblyReference.cache
+M:\web-api\Toys\Reposirories\obj\Debug\net9.0\Reposiro.C2D23F48.Up2Date
