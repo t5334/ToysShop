@@ -2,6 +2,7 @@
 using Services;
 using System.Text.Json;
 using Entities;
+using System.Threading.Tasks;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -33,16 +34,18 @@ namespace Toys.Controllers
 
         //POST api/<UserController>
         [HttpPost("register")]
-        public ActionResult<User> Post([FromBody]User user) 
+        public async Task<ActionResult<User>> Post([FromBody]User user) 
         {
-            User user2 = userService.register(user);
-            return CreatedAtAction("Get", new { id = user.userId }, user2);
+            User user2 = await userService.register(user);
+            if (user2 is not null)
+                return Ok(user2);
+            return BadRequest();
         }
 
         [HttpPost("login")]
-        public ActionResult<User> Postlogin([FromBody] User user)
+        public async Task<ActionResult<User>> Postlogin([FromBody] User user)
         {
-            User user1 = userService.login(user);
+            User user1 =await userService.login(user);
             if (user1 is not null)
             {
                 return Ok(user1);
@@ -52,9 +55,9 @@ namespace Toys.Controllers
 
         // PUT api/<UserController>/5
         [HttpPut("{id}")]
-        public ActionResult<User> Put(int id, [FromBody] User userToUpdate)
+        public async Task<ActionResult<User>> Put(int id, [FromBody] User userToUpdate)
         {
-            User user = userService.updateUser(id, userToUpdate);
+            User user = await userService.updateUser(id, userToUpdate);
             if (user is not null)
             {
                 return Ok(user);

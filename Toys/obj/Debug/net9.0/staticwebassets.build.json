@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DwrxKhUYAYVpk29RwDQ5IMDKwFZR1TtNJovOWwhpNeY=",
+  "Hash": "RVXW2/ib9AZqH3YMc0gz8+xgXK4xA0Xa/0adVKjGzBI=",
   "Source": "Toys",
   "BasePath": "_content/Toys",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "M:\\web-api\\Toys\\Toys\\wwwroot\\styles.css"
     },
     {
-      "Identity": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\drgwes7pwf-1an97edgwh.gz",
+      "Identity": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\drgwes7pwf-pr3ia4c9ll.gz",
       "SourceId": "Toys",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Toys",
-      "RelativePath": "home#[.{fingerprint=1an97edgwh}]?.js.gz",
+      "RelativePath": "home#[.{fingerprint=pr3ia4c9ll}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "M:\\web-api\\Toys\\Toys\\wwwroot\\home.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "duzg83g8sm",
-      "Integrity": "dQ2g+Uf9uSk0RF8riIyTaKe6TPOsNqTyb9/66Ra/XfU=",
+      "Fingerprint": "8sqmgk4vaf",
+      "Integrity": "6O50Ctz66Nn4i0glZVakLMHU3JoqY6MLt0ZNliO1Kqs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "M:\\web-api\\Toys\\Toys\\wwwroot\\home.js"
@@ -80,12 +80,12 @@
       "OriginalItemSpec": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.html"
     },
     {
-      "Identity": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-603b2phdi1.gz",
+      "Identity": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-ccq3deh8sv.gz",
       "SourceId": "Toys",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Toys",
-      "RelativePath": "update#[.{fingerprint=603b2phdi1}]?.js.gz",
+      "RelativePath": "update#[.{fingerprint=ccq3deh8sv}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -94,8 +94,8 @@
       "RelatedAsset": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3tua9crgck",
-      "Integrity": "iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4=",
+      "Fingerprint": "h0clzhy9uh",
+      "Integrity": "EXe3IzH10oxI49OuOPHWCUEFXi6orM4EhrQkAfI7h5M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.js"
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1an97edgwh",
-      "Integrity": "GQ3rstq5MRd333Zbjr+IGH4angZPk/E8Bne9LQDozaU=",
+      "Fingerprint": "pr3ia4c9ll",
+      "Integrity": "a0KK1pcgtYm0FT6SBhQpRUSzvZcJQT8/ggwHjsK1gcg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\home.js"
@@ -220,175 +220,14 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "603b2phdi1",
-      "Integrity": "CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY=",
+      "Fingerprint": "ccq3deh8sv",
+      "Integrity": "HN0eOlNcdsFfr7tfPXmidEYxx1G6so2gNr2lHODZg3c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\update.js"
     }
   ],
   "Endpoints": [
-    {
-      "Route": "home.1an97edgwh.js",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\drgwes7pwf-1an97edgwh.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001855287570"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "538"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dQ2g+Uf9uSk0RF8riIyTaKe6TPOsNqTyb9/66Ra/XfU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 19:01:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GQ3rstq5MRd333Zbjr+IGH4angZPk/E8Bne9LQDozaU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1an97edgwh"
-        },
-        {
-          "Name": "label",
-          "Value": "home.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GQ3rstq5MRd333Zbjr+IGH4angZPk/E8Bne9LQDozaU="
-        }
-      ]
-    },
-    {
-      "Route": "home.1an97edgwh.js",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\wwwroot\\home.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1876"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GQ3rstq5MRd333Zbjr+IGH4angZPk/E8Bne9LQDozaU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 19:01:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1an97edgwh"
-        },
-        {
-          "Name": "label",
-          "Value": "home.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GQ3rstq5MRd333Zbjr+IGH4angZPk/E8Bne9LQDozaU="
-        }
-      ]
-    },
-    {
-      "Route": "home.1an97edgwh.js.gz",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\drgwes7pwf-1an97edgwh.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "538"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dQ2g+Uf9uSk0RF8riIyTaKe6TPOsNqTyb9/66Ra/XfU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 19:01:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1an97edgwh"
-        },
-        {
-          "Name": "label",
-          "Value": "home.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dQ2g+Uf9uSk0RF8riIyTaKe6TPOsNqTyb9/66Ra/XfU="
-        }
-      ]
-    },
     {
       "Route": "home.b774pdrs19.html",
       "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\skmues0qvn-b774pdrs19.gz",
@@ -689,12 +528,12 @@
     },
     {
       "Route": "home.js",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\drgwes7pwf-1an97edgwh.gz",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\drgwes7pwf-pr3ia4c9ll.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001855287570"
+          "Quality": "0.001795332136"
         }
       ],
       "ResponseHeaders": [
@@ -704,15 +543,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "556"
         },
         {
           "Name": "ETag",
-          "Value": "\"dQ2g+Uf9uSk0RF8riIyTaKe6TPOsNqTyb9/66Ra/XfU=\""
+          "Value": "\"6O50Ctz66Nn4i0glZVakLMHU3JoqY6MLt0ZNliO1Kqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 19:01:32 GMT"
+          "Value": "Tue, 13 May 2025 15:19:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -732,13 +571,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GQ3rstq5MRd333Zbjr+IGH4angZPk/E8Bne9LQDozaU=\""
+          "Value": "W/\"a0KK1pcgtYm0FT6SBhQpRUSzvZcJQT8/ggwHjsK1gcg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GQ3rstq5MRd333Zbjr+IGH4angZPk/E8Bne9LQDozaU="
+          "Value": "sha256-a0KK1pcgtYm0FT6SBhQpRUSzvZcJQT8/ggwHjsK1gcg="
         }
       ]
     },
@@ -753,7 +592,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1876"
+          "Value": "1918"
         },
         {
           "Name": "Content-Type",
@@ -761,11 +600,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GQ3rstq5MRd333Zbjr+IGH4angZPk/E8Bne9LQDozaU=\""
+          "Value": "\"a0KK1pcgtYm0FT6SBhQpRUSzvZcJQT8/ggwHjsK1gcg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 19:01:32 GMT"
+          "Value": "Tue, 13 May 2025 15:19:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -775,13 +614,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GQ3rstq5MRd333Zbjr+IGH4angZPk/E8Bne9LQDozaU="
+          "Value": "sha256-a0KK1pcgtYm0FT6SBhQpRUSzvZcJQT8/ggwHjsK1gcg="
         }
       ]
     },
     {
       "Route": "home.js.gz",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\drgwes7pwf-1an97edgwh.gz",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\drgwes7pwf-pr3ia4c9ll.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -790,7 +629,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "538"
+          "Value": "556"
         },
         {
           "Name": "Content-Type",
@@ -798,11 +637,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dQ2g+Uf9uSk0RF8riIyTaKe6TPOsNqTyb9/66Ra/XfU=\""
+          "Value": "\"6O50Ctz66Nn4i0glZVakLMHU3JoqY6MLt0ZNliO1Kqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 19:01:32 GMT"
+          "Value": "Tue, 13 May 2025 15:19:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -820,7 +659,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dQ2g+Uf9uSk0RF8riIyTaKe6TPOsNqTyb9/66Ra/XfU="
+          "Value": "sha256-6O50Ctz66Nn4i0glZVakLMHU3JoqY6MLt0ZNliO1Kqs="
+        }
+      ]
+    },
+    {
+      "Route": "home.pr3ia4c9ll.js",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\drgwes7pwf-pr3ia4c9ll.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001795332136"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6O50Ctz66Nn4i0glZVakLMHU3JoqY6MLt0ZNliO1Kqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 15:19:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"a0KK1pcgtYm0FT6SBhQpRUSzvZcJQT8/ggwHjsK1gcg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pr3ia4c9ll"
+        },
+        {
+          "Name": "label",
+          "Value": "home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0KK1pcgtYm0FT6SBhQpRUSzvZcJQT8/ggwHjsK1gcg="
+        }
+      ]
+    },
+    {
+      "Route": "home.pr3ia4c9ll.js",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\wwwroot\\home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a0KK1pcgtYm0FT6SBhQpRUSzvZcJQT8/ggwHjsK1gcg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 15:19:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pr3ia4c9ll"
+        },
+        {
+          "Name": "label",
+          "Value": "home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0KK1pcgtYm0FT6SBhQpRUSzvZcJQT8/ggwHjsK1gcg="
+        }
+      ]
+    },
+    {
+      "Route": "home.pr3ia4c9ll.js.gz",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\drgwes7pwf-pr3ia4c9ll.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6O50Ctz66Nn4i0glZVakLMHU3JoqY6MLt0ZNliO1Kqs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 15:19:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pr3ia4c9ll"
+        },
+        {
+          "Name": "label",
+          "Value": "home.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6O50Ctz66Nn4i0glZVakLMHU3JoqY6MLt0ZNliO1Kqs="
         }
       ]
     },
@@ -1123,13 +1123,13 @@
       ]
     },
     {
-      "Route": "update.603b2phdi1.js",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-603b2phdi1.gz",
+      "Route": "update.ccq3deh8sv.js",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-ccq3deh8sv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001893939394"
+          "Quality": "0.001862197393"
         }
       ],
       "ResponseHeaders": [
@@ -1139,15 +1139,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "527"
+          "Value": "536"
         },
         {
           "Name": "ETag",
-          "Value": "\"iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4=\""
+          "Value": "\"EXe3IzH10oxI49OuOPHWCUEFXi6orM4EhrQkAfI7h5M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 13:35:31 GMT"
+          "Value": "Tue, 13 May 2025 15:32:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1167,13 +1167,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY=\""
+          "Value": "W/\"HN0eOlNcdsFfr7tfPXmidEYxx1G6so2gNr2lHODZg3c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "603b2phdi1"
+          "Value": "ccq3deh8sv"
         },
         {
           "Name": "label",
@@ -1181,12 +1181,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY="
+          "Value": "sha256-HN0eOlNcdsFfr7tfPXmidEYxx1G6so2gNr2lHODZg3c="
         }
       ]
     },
     {
-      "Route": "update.603b2phdi1.js",
+      "Route": "update.ccq3deh8sv.js",
       "AssetFile": "M:\\web-api\\Toys\\Toys\\wwwroot\\update.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1196,7 +1196,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1293"
+          "Value": "1316"
         },
         {
           "Name": "Content-Type",
@@ -1204,11 +1204,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY=\""
+          "Value": "\"HN0eOlNcdsFfr7tfPXmidEYxx1G6so2gNr2lHODZg3c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 13:35:31 GMT"
+          "Value": "Tue, 13 May 2025 15:32:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1218,7 +1218,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "603b2phdi1"
+          "Value": "ccq3deh8sv"
         },
         {
           "Name": "label",
@@ -1226,13 +1226,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY="
+          "Value": "sha256-HN0eOlNcdsFfr7tfPXmidEYxx1G6so2gNr2lHODZg3c="
         }
       ]
     },
     {
-      "Route": "update.603b2phdi1.js.gz",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-603b2phdi1.gz",
+      "Route": "update.ccq3deh8sv.js.gz",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-ccq3deh8sv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1241,7 +1241,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "527"
+          "Value": "536"
         },
         {
           "Name": "Content-Type",
@@ -1249,11 +1249,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4=\""
+          "Value": "\"EXe3IzH10oxI49OuOPHWCUEFXi6orM4EhrQkAfI7h5M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 13:35:31 GMT"
+          "Value": "Tue, 13 May 2025 15:32:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1271,7 +1271,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "603b2phdi1"
+          "Value": "ccq3deh8sv"
         },
         {
           "Name": "label",
@@ -1279,7 +1279,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4="
+          "Value": "sha256-EXe3IzH10oxI49OuOPHWCUEFXi6orM4EhrQkAfI7h5M="
         }
       ]
     },
@@ -1583,12 +1583,12 @@
     },
     {
       "Route": "update.js",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-603b2phdi1.gz",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-ccq3deh8sv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001893939394"
+          "Quality": "0.001862197393"
         }
       ],
       "ResponseHeaders": [
@@ -1598,15 +1598,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "527"
+          "Value": "536"
         },
         {
           "Name": "ETag",
-          "Value": "\"iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4=\""
+          "Value": "\"EXe3IzH10oxI49OuOPHWCUEFXi6orM4EhrQkAfI7h5M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 13:35:31 GMT"
+          "Value": "Tue, 13 May 2025 15:32:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1626,13 +1626,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY=\""
+          "Value": "W/\"HN0eOlNcdsFfr7tfPXmidEYxx1G6so2gNr2lHODZg3c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY="
+          "Value": "sha256-HN0eOlNcdsFfr7tfPXmidEYxx1G6so2gNr2lHODZg3c="
         }
       ]
     },
@@ -1647,7 +1647,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1293"
+          "Value": "1316"
         },
         {
           "Name": "Content-Type",
@@ -1655,11 +1655,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY=\""
+          "Value": "\"HN0eOlNcdsFfr7tfPXmidEYxx1G6so2gNr2lHODZg3c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 13:35:31 GMT"
+          "Value": "Tue, 13 May 2025 15:32:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1669,13 +1669,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CoYb3kmuNO6sVnb/WwZ2icXKlZnjvybwfNnjHwpD5aY="
+          "Value": "sha256-HN0eOlNcdsFfr7tfPXmidEYxx1G6so2gNr2lHODZg3c="
         }
       ]
     },
     {
       "Route": "update.js.gz",
-      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-603b2phdi1.gz",
+      "AssetFile": "M:\\web-api\\Toys\\Toys\\obj\\Debug\\net9.0\\compressed\\ifdgrx4xwt-ccq3deh8sv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1684,7 +1684,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "527"
+          "Value": "536"
         },
         {
           "Name": "Content-Type",
@@ -1692,11 +1692,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4=\""
+          "Value": "\"EXe3IzH10oxI49OuOPHWCUEFXi6orM4EhrQkAfI7h5M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 13:35:31 GMT"
+          "Value": "Tue, 13 May 2025 15:32:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1714,7 +1714,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iTzrovap58LfWXRBIKap4vK2oneDOZ27asWX2W+I8X4="
+          "Value": "sha256-EXe3IzH10oxI49OuOPHWCUEFXi6orM4EhrQkAfI7h5M="
         }
       ]
     }
