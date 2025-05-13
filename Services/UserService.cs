@@ -13,22 +13,22 @@ namespace Services
         {
             _userRepository=userRepository;
         }
-        public User register(User user)
+        public async Task<User> register(User user)
         {
-            if (passwordPower(user.password) != -1)
+            if (passwordPower(user.Password) != -1)
             {
-                return _userRepository.register(user);
+                return await _userRepository.register(user);
             }
             return null;
         }
-        public User login(User user)
+        public async Task<User> login(User user)
         {
 
-            return _userRepository.login(user);
+            return await _userRepository.login(user);
         }
-        public User updateUser(int id, User userToUpdate)
+        public async Task<User> updateUser(int id, User userToUpdate)
         {
-            return _userRepository.updateUser(id, userToUpdate);
+            return await _userRepository.updateUser(id, userToUpdate);
         }
         public int passwordPower(string password)
         {

@@ -8,18 +8,18 @@
     else {
         const userItem = localStorage.getItem("user");
         if (userItem) {
-            const { userId } = JSON.parse(userItem);
+            const { id } = JSON.parse(userItem);
             const user = {
-                userName: username,
-                password: password,
+                UserName: username,
+                Password: password,
                 FirstName: firstname,
                 LastName: lastname,
-                userId:userId
+                Id:id
             }
+         
+            console.log(user);// Check the user object before sending it   
 
-
-            console.log(user); // Check the user object before sending it   
-            const response = await fetch(`http://localhost:62447/api/user/${userId}`, {
+            const response = await fetch(`http://localhost:62447/api/user/${id}`, {
                 method: 'PUT',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(user)
@@ -27,6 +27,7 @@
 
             const dataput = await response.json();
             console.log(dataput); // Handle the response as needed
+            alert("succeded")
         } else {
             alert("User not found in local storage.");
         }

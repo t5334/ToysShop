@@ -19,6 +19,7 @@
             const datapost = await response.json();
             localStorage.setItem('user', JSON.stringify(datapost));
             window.location.href = "update.html"
+            console.log("login" + user);
         }
         else
             alert("Login is failed")
