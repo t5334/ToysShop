@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
 
 namespace Entities;
 
@@ -24,6 +25,10 @@ public partial class Product
 
     [StringLength(50)]
     public string Description { get; set; }
+
+    [Column("Path_Image")]
+    [StringLength(100)]
+    public string PathImage { get; set; }
 
     [ForeignKey("CategoryId")]
     [InverseProperty("Products")]

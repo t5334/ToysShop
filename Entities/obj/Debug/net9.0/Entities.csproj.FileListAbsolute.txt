@@ -10,3 +10,4 @@ M:\web-api\Toys\Entities\obj\Debug\net9.0\Entities.dll
 M:\web-api\Toys\Entities\obj\Debug\net9.0\refint\Entities.dll
 M:\web-api\Toys\Entities\obj\Debug\net9.0\Entities.pdb
 M:\web-api\Toys\Entities\obj\Debug\net9.0\ref\Entities.dll
+M:\web-api\Toys\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache

@@ -4,7 +4,6 @@ using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Entities;
-
 namespace Reposirories;
 
 public partial class ToysContext : DbContext

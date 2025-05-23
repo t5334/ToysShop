@@ -96,3 +96,6 @@ M:\web-api\Toys\Toys\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cr
 M:\web-api\Toys\Toys\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\drgwes7pwf-pr3ia4c9ll.gz
 M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\ifdgrx4xwt-ccq3deh8sv.gz
+M:\web-api\Toys\Toys\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\web-api\Toys\Toys\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\web-api\Toys\Toys\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
