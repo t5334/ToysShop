@@ -11,7 +11,6 @@ namespace Reposirories
         {
             _toysContext = toysContext;
         }
-        public string filePath = "M:\\web-api\\user.txt";
         public async  Task<User> register(User user)
         {
             await _toysContext.Users.AddAsync(user);

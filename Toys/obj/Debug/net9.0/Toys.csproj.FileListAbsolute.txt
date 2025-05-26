@@ -99,3 +99,4 @@ M:\web-api\Toys\Toys\obj\Debug\net9.0\compressed\ifdgrx4xwt-ccq3deh8sv.gz
 M:\web-api\Toys\Toys\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 M:\web-api\Toys\Toys\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 M:\web-api\Toys\Toys\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\web-api\Toys\Toys\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll

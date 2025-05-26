@@ -1,6 +1,7 @@
 using Entities;
 using Microsoft.EntityFrameworkCore;
 using Moq;
+using Moq.EntityFrameworkCore;
 using Reposirories;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,41 +14,23 @@ namespace Repositories.Tests
 {
     public class CategoryRepositoryTests
     {
-        private readonly Mock<DbSet<Category>> _mockCategoryDbSet;
-        private readonly Mock<ToysContext> _mockToysContext;
-        private readonly List<Category> _categories;
-
-        public CategoryRepositoryTests()
-        {
-            // Initialize mock data
-            _categories = new List<Category>
-            {
-                new Category { CategoryId = 1, CategoryName = "Dolls" },
-                new Category { CategoryId = 2, CategoryName = "Building Blocks" },
-                new Category { CategoryId = 3, CategoryName = "Board Games" }
-            };
-
-            // Mock DbSet
-            _mockCategoryDbSet = new Mock<DbSet<Category>>();
-            var queryableCategories = _categories.AsQueryable();
-            _mockCategoryDbSet.As<IQueryable<Category>>().Setup(m => m.Provider).Returns(queryableCategories.Provider);
-            _mockCategoryDbSet.As<IQueryable<Category>>().Setup(m => m.Expression).Returns(queryableCategories.Expression);
-            _mockCategoryDbSet.As<IQueryable<Category>>().Setup(m => m.ElementType).Returns(queryableCategories.ElementType);
-            _mockCategoryDbSet.As<IQueryable<Category>>().Setup(m => m.GetEnumerator()).Returns(queryableCategories.GetEnumerator());
-
-            // Mock ToysContext
-            _mockToysContext = new Mock<ToysContext>(new DbContextOptions<ToysContext>());
-            _mockToysContext.Setup(c => c.Categories).Returns(_mockCategoryDbSet.Object);
-        }
-
         [Fact]
-        public async Task GetCategories_ShouldReturnAllCategories()
+        public async Task GetCategories_ValidRequest_ReturnsAllCategories()
         {
             // Arrange
-            var repository = new CategoryRepository(_mockToysContext.Object);
+            var categories = new List<Category>
+    {
+        new Category { CategoryId = 1, CategoryName = "Dolls" },
+        new Category { CategoryId = 2, CategoryName = "Building Blocks" },
+        new Category { CategoryId = 3, CategoryName = "Board Games" }
+    };
+            var options = new DbContextOptionsBuilder<ToysContext>().Options;
+            var mockContext = new Mock<ToysContext>(options);
+            mockContext.Setup(x => x.Categories).ReturnsDbSet(categories);
+            var categoryRepository = new CategoryRepository(mockContext.Object);
 
             // Act
-            var result = await repository.GetCategories();
+            var result = await categoryRepository.GetCategories();
 
             // Assert
             Assert.NotNull(result);
@@ -55,6 +38,23 @@ namespace Repositories.Tests
             Assert.Equal("Dolls", result[0].CategoryName);
             Assert.Equal("Building Blocks", result[1].CategoryName);
             Assert.Equal("Board Games", result[2].CategoryName);
+        }
+        [Fact]
+        public async Task GetCategories_EmptyList_ReturnsEmptyList()
+        {
+            // Arrange
+            var categories = new List<Category>();
+            var options = new DbContextOptionsBuilder<ToysContext>().Options;
+            var mockContext = new Mock<ToysContext>(options);
+            mockContext.Setup(x => x.Categories).ReturnsDbSet(categories);
+            var categoryRepository = new CategoryRepository(mockContext.Object);
+
+            // Act
+            var result = await categoryRepository.GetCategories();
+
+            // Assert
+            Assert.NotNull(result);
+            Assert.Empty(result);
         }
     }
 }
