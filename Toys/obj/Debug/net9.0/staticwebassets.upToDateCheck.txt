@@ -1,8 +1,8 @@
-M:\web-api\Toys\Toys\wwwroot\styles.css
-M:\web-api\Toys\Toys\wwwroot\home.js
-M:\web-api\Toys\Toys\wwwroot\update.html
-M:\web-api\Toys\Toys\wwwroot\update.js
-M:\web-api\Toys\Toys\wwwroot\home.html
+C:\Users\IMOE001\Documents\יעלי\Toys\Toys\wwwroot\styles.css
+C:\Users\IMOE001\Documents\יעלי\Toys\Toys\wwwroot\home.js
+C:\Users\IMOE001\Documents\יעלי\Toys\Toys\wwwroot\update.html
+C:\Users\IMOE001\Documents\יעלי\Toys\Toys\wwwroot\update.js
+C:\Users\IMOE001\Documents\יעלי\Toys\Toys\wwwroot\home.html
 wwwroot\home.html
 wwwroot\home.js
 wwwroot\styles.css

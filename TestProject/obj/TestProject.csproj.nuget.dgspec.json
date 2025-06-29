@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "M:\\web-api\\Toys\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "M:\\web-api\\Toys\\Entities\\Entities.csproj": {
+    "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\web-api\\Toys\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "M:\\web-api\\Toys\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\328188453\\.nuget\\packages\\",
-        "outputPath": "M:\\web-api\\Toys\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\IMOE001\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\328188453\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IMOE001\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -72,24 +72,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "M:\\web-api\\Toys\\Reposirories\\Reposirories.csproj": {
+    "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Reposirories\\Reposirories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\web-api\\Toys\\Reposirories\\Reposirories.csproj",
+        "projectUniqueName": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Reposirories\\Reposirories.csproj",
         "projectName": "Reposirories",
-        "projectPath": "M:\\web-api\\Toys\\Reposirories\\Reposirories.csproj",
-        "packagesPath": "C:\\Users\\328188453\\.nuget\\packages\\",
-        "outputPath": "M:\\web-api\\Toys\\Reposirories\\obj\\",
+        "projectPath": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Reposirories\\Reposirories.csproj",
+        "packagesPath": "C:\\Users\\IMOE001\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Reposirories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\328188453\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IMOE001\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,8 +105,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "M:\\web-api\\Toys\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\web-api\\Toys\\Entities\\Entities.csproj"
+              "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Entities\\Entities.csproj"
               }
             }
           }
@@ -121,7 +121,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -148,24 +148,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "M:\\web-api\\Toys\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\web-api\\Toys\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "M:\\web-api\\Toys\\TestProject\\TestProject.csproj",
-        "packagesPath": "C:\\Users\\328188453\\.nuget\\packages\\",
-        "outputPath": "M:\\web-api\\Toys\\TestProject\\obj\\",
+        "projectPath": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\IMOE001\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\328188453\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IMOE001\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -181,11 +181,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "M:\\web-api\\Toys\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\web-api\\Toys\\Entities\\Entities.csproj"
+              "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Entities\\Entities.csproj"
               },
-              "M:\\web-api\\Toys\\Reposirories\\Reposirories.csproj": {
-                "projectPath": "M:\\web-api\\Toys\\Reposirories\\Reposirories.csproj"
+              "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Reposirories\\Reposirories.csproj": {
+                "projectPath": "C:\\Users\\IMOE001\\Documents\\יעלי\\Toys\\Reposirories\\Reposirories.csproj"
               }
             }
           }
@@ -200,7 +200,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -247,7 +247,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
