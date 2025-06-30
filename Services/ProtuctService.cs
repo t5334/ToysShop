@@ -1,5 +1,7 @@
 ﻿using Entities;
 using Reposirories;
+using DTO;
+using AutoMapper
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,14 +13,17 @@ namespace Services
     public class ProductService : IProductService
     {
         IProductRepository _ProductRepository;
-        public ProductService(IProductRepository productRepository)
+        IMapper _Mapper;
+        public ProductService(IProductRepository productRepository,IMapper mapper)
         {
             _ProductRepository = productRepository;
+            _Mapper = mapper;
         }
 
-        public async Task<List<Product>> GetProducts()
+        public async Task<List<ProductDTO>> GetProducts(string? desc, int? minPrice, int? maxPrice, int?[] categoryIds)
         {
-            return await _ProductRepository.GetProduct();
+           List<Product> products= await _ProductRepository.GetProduct();
+            return _Mapper.Map<List<ProductDTO>>(products);
         }
     }
 }

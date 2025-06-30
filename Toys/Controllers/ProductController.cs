@@ -17,9 +17,9 @@ namespace Toys.Controllers
         }
         // GET: api/<Product>
         [HttpGet]
-        public async Task<List<Product>> Get()
+        public async Task<List<DTO.ProductDTO>> Get([FromQuery] string? desc, [FromQuery] int? minPrice, [FromQuery] int? maxPrice, [FromQuery] int?[] categoryIds)
         {
-            return await  _productService.GetProducts();
+            return await  _productService.GetProducts(desc, minPrice, maxPrice, categoryIds);
         }
 
         // GET api/<Product>/5

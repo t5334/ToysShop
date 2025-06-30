@@ -3,6 +3,90 @@
   "WorkspaceRootPath": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\services\\protuctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|solutionrelative:services\\protuctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F6301-F800-4FC0-869E-8167ADD89BF0}|Toys\\Toys.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\toys\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F6301-F800-4FC0-869E-8167ADD89BF0}|Toys\\Toys.csproj|solutionrelative:toys\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|solutionrelative:services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF60007E-221E-4A16-8415-F56EFC3C2290}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F6301-F800-4FC0-869E-8167ADD89BF0}|Toys\\Toys.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\toys\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F6301-F800-4FC0-869E-8167ADD89BF0}|Toys\\Toys.csproj|solutionrelative:toys\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F6301-F800-4FC0-869E-8167ADD89BF0}|Toys\\Toys.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\toys\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F6301-F800-4FC0-869E-8167ADD89BF0}|Toys\\Toys.csproj|solutionrelative:toys\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F6301-F800-4FC0-869E-8167ADD89BF0}|Toys\\Toys.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\toys\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0F6301-F800-4FC0-869E-8167ADD89BF0}|Toys\\Toys.csproj|solutionrelative:toys\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EBFEA4-7DF6-44EE-870A-74D22F30E64B}|DTO\\DTO.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EBFEA4-7DF6-44EE-870A-74D22F30E64B}|DTO\\DTO.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14F07F3-08D7-4274-957A-7890DA2D2C20}|Entities\\Entities.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14F07F3-08D7-4274-957A-7890DA2D2C20}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EBFEA4-7DF6-44EE-870A-74D22F30E64B}|DTO\\DTO.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EBFEA4-7DF6-44EE-870A-74D22F30E64B}|DTO\\DTO.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14F07F3-08D7-4274-957A-7890DA2D2C20}|Entities\\Entities.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14F07F3-08D7-4274-957A-7890DA2D2C20}|Entities\\Entities.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EBFEA4-7DF6-44EE-870A-74D22F30E64B}|DTO\\DTO.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EBFEA4-7DF6-44EE-870A-74D22F30E64B}|DTO\\DTO.csproj|solutionrelative:dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14F07F3-08D7-4274-957A-7890DA2D2C20}|Entities\\Entities.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14F07F3-08D7-4274-957A-7890DA2D2C20}|Entities\\Entities.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EBFEA4-7DF6-44EE-870A-74D22F30E64B}|DTO\\DTO.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EBFEA4-7DF6-44EE-870A-74D22F30E64B}|DTO\\DTO.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14F07F3-08D7-4274-957A-7890DA2D2C20}|Entities\\Entities.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14F07F3-08D7-4274-957A-7890DA2D2C20}|Entities\\Entities.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EBFEA4-7DF6-44EE-870A-74D22F30E64B}|DTO\\DTO.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EBFEA4-7DF6-44EE-870A-74D22F30E64B}|DTO\\DTO.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7FFACF5-611F-40C7-97D7-AC2239E7ED04}|Reposirories\\Reposirories.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\reposirories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7FFACF5-611F-40C7-97D7-AC2239E7ED04}|Reposirories\\Reposirories.csproj|solutionrelative:reposirories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{015400B1-BC99-4EE5-9476-F5F9C2D0ED89}|TestProject\\TestProject.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\testproject\\productrepositoryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{015400B1-BC99-4EE5-9476-F5F9C2D0ED89}|TestProject\\TestProject.csproj|solutionrelative:testproject\\productrepositoryunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B14F07F3-08D7-4274-957A-7890DA2D2C20}|Entities\\Entities.csproj|c:\\users\\imoe001\\documents\\\u05D9\u05E2\u05DC\u05D9\\toys\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B14F07F3-08D7-4274-957A-7890DA2D2C20}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,71 +122,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:25:20.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ToysContext.cs",
-              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Reposirories\\ToysContext.cs",
-              "RelativeDocumentMoniker": "Reposirories\\ToysContext.cs",
-              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Reposirories\\ToysContext.cs",
-              "RelativeToolTip": "Reposirories\\ToysContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBcAAAAnAAAAAAAAAA==",
+              "Title": "ProtuctService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\ProtuctService.cs",
+              "RelativeDocumentMoniker": "Services\\ProtuctService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\ProtuctService.cs",
+              "RelativeToolTip": "Services\\ProtuctService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T22:19:22.045Z"
+              "WhenOpened": "2025-06-30T14:21:09.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductRepositoryUnitTest.cs",
-              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\ProductRepositoryUnitTest.cs",
-              "RelativeDocumentMoniker": "TestProject\\ProductRepositoryUnitTest.cs",
-              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\ProductRepositoryUnitTest.cs",
-              "RelativeToolTip": "TestProject\\ProductRepositoryUnitTest.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:55:10.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderRepositoryUnitTest.cs",
-              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\OrderRepositoryUnitTest.cs",
-              "RelativeDocumentMoniker": "TestProject\\OrderRepositoryUnitTest.cs",
-              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\OrderRepositoryUnitTest.cs",
-              "RelativeToolTip": "TestProject\\OrderRepositoryUnitTest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:53:07.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Reposirories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Reposirories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Reposirories\\CategoryRepository.cs",
-              "RelativeToolTip": "Reposirories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:40:36.819Z"
+              "WhenOpened": "2025-06-30T10:54:46.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CategoryRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\CategoryRepositoryTests.cs",
-              "RelativeDocumentMoniker": "TestProject\\CategoryRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\CategoryRepositoryTests.cs",
-              "RelativeToolTip": "TestProject\\CategoryRepositoryTests.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:37:44.182Z"
+              "WhenOpened": "2025-06-30T10:53:52.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:48:20.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:45:20.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Toys\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Toys\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Toys\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Toys\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:25:26.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:44:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:29:04.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Toys\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Toys\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Toys\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Toys\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:25:53.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Toys\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Toys\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Toys\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Toys\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:23:03.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Toys\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Toys\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Toys\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Toys\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:22:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:13:53.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:11:28.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:10:16.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
@@ -114,11 +329,142 @@
               "RelativeToolTip": "Entities\\User.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:16:19.866Z"
+              "WhenOpened": "2025-05-26T09:16:19.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:08:41.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\DTO\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\DTO\\OrderItemDTO.cs",
+              "RelativeToolTip": "DTO\\OrderItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:08:03.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:58:36.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:57:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:53:01.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ToysContext.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Reposirories\\ToysContext.cs",
+              "RelativeDocumentMoniker": "Reposirories\\ToysContext.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Reposirories\\ToysContext.cs",
+              "RelativeToolTip": "Reposirories\\ToysContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:19:22.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductRepositoryUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\ProductRepositoryUnitTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\ProductRepositoryUnitTest.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\ProductRepositoryUnitTest.cs",
+              "RelativeToolTip": "TestProject\\ProductRepositoryUnitTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:55:10.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderRepositoryUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\OrderRepositoryUnitTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\OrderRepositoryUnitTest.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\OrderRepositoryUnitTest.cs",
+              "RelativeToolTip": "TestProject\\OrderRepositoryUnitTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:53:07.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Reposirories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Reposirories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Reposirories\\CategoryRepository.cs",
+              "RelativeToolTip": "Reposirories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:40:36.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\CategoryRepositoryTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\CategoryRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\CategoryRepositoryTests.cs",
+              "RelativeToolTip": "TestProject\\CategoryRepositoryTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:37:44.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "UserRepositoryUnitTesting.cs",
               "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\TestProject\\UserRepositoryUnitTesting.cs",
               "RelativeDocumentMoniker": "TestProject\\UserRepositoryUnitTesting.cs",
@@ -126,11 +472,12 @@
               "RelativeToolTip": "TestProject\\UserRepositoryUnitTesting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T09:13:37.222Z"
+              "WhenOpened": "2025-05-26T09:13:37.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 21,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\\u05D9\u05E2\u05DC\u05D9\\Toys\\Reposirories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Reposirories\\UserRepository.cs",

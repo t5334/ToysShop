@@ -17,7 +17,7 @@ namespace Toys.Controllers
         }
         // GET: api/<CategoryController>
         [HttpGet]
-        public async Task<List<Category>> Get()
+        public async Task<List<DTO.CategoryDTO>> Get()
         {
           return await _categoryService.GetCategories();
         }

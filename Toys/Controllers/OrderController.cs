@@ -31,9 +31,9 @@ namespace Toys.Controllers
 
         // POST api/<OrderController>
         [HttpPost]
-        public async Task<Order>  Post([FromBody] Order order)
+        public async Task<DTO.OrderDTO>  Post([FromBody] DTO.OrderDTO orderDto)
         {
-            return await _orderService.AddOrder(order);
+            return await _orderService.AddOrder(orderDto);
         }
 
         //// PUT api/<OrderController>/5
