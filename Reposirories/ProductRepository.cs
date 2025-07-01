@@ -16,7 +16,7 @@ namespace Reposirories
         {
             _toysContext = toysContext;
         }
-        public async Task<List<Product>> GetProduct()
+        public async Task<List<Product>> GetProduct()//string? desc, int? minPrice, int? maxPrice, int?[] categoryIds
         {
             return await _toysContext.Products.ToListAsync();
         }

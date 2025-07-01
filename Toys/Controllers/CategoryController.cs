@@ -1,8 +1,8 @@
 ﻿using Entities;
 using Microsoft.AspNetCore.Mvc;
 using Services;
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+// delete comments from all the code files
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860//
 
 namespace Toys.Controllers
 {
@@ -15,13 +15,15 @@ namespace Toys.Controllers
         {
             _categoryService = categoryService;
         }
-        // GET: api/<CategoryController>
+        // GET: api/<CategoryController>//
         [HttpGet]
-        public async Task<List<Category>> Get()
+        public async Task<List<Category>> Get()//clean code - channge function name to more descriptive
+        //use ActionResult<List<Category>> to return status codes - in all the controllers
         {
-          return await _categoryService.GetCategories();
+            return await _categoryService.GetCategories();
         }
 
+        //delete
         // GET api/<CategoryController>/5
         //[HttpGet("{id}")]
         //public string Get(int id)
