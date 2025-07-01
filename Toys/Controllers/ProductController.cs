@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Services;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860//
 
 namespace Toys.Controllers
 {
@@ -15,13 +15,13 @@ namespace Toys.Controllers
         {
             _productService = productService;
         }
-        // GET: api/<Product>
+        // GET: api/<Product>//
         [HttpGet]
-        public async Task<List<Product>> Get()
+        public async Task<List<Product>> Get()//clean code - change function name to more descriptive
         {
             return await  _productService.GetProducts();
         }
-
+// delete
         // GET api/<Product>/5
         //[HttpGet("{id}")]
         //public string Get(int id)

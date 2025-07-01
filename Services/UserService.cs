@@ -7,30 +7,30 @@ namespace Services
 {
     public class UserService : IUserService
     {
-        public string filePath = "M:\\web-api\\user.txt";
+        public string filePath = "M:\\web-api\\user.txt";//
         IUserRepository _userRepository;
         public UserService(IUserRepository userRepository)
         {
             _userRepository=userRepository;
         }
-        public async Task<User> register(User user)
+        public async Task<User> register(User user)//Register
         {
-            if (passwordPower(user.Password) != -1)
+            if (passwordPower(user.Password) != -1)//check if password is strong enough
             {
                 return await _userRepository.register(user);
             }
             return null;
         }
-        public async Task<User> login(User user)
+        public async Task<User> login(User user)//Login
         {
 
             return await _userRepository.login(user);
         }
-        public async Task<User> updateUser(int id, User userToUpdate)
+        public async Task<User> updateUser(int id, User userToUpdate)//UpdateUser
         {
-            return await _userRepository.updateUser(id, userToUpdate);
+            return await _userRepository.updateUser(id, userToUpdate);//also here you can check if password is strong enough
         }
-        public int passwordPower(string password)
+        public int passwordPower(string password)//PasswordPower
         {
             if (password == null)
             {
@@ -38,8 +38,7 @@ namespace Services
 
             }
 
-            int res = Zxcvbn.Core.EvaluatePassword(password).Score;
-            return res;
+            return Zxcvbn.Core.EvaluatePassword(password).Score;
         }
     }
 }

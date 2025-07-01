@@ -11,18 +11,18 @@ namespace Reposirories
         {
             _toysContext = toysContext;
         }
-        public string filePath = "M:\\web-api\\user.txt";
-        public async  Task<User> register(User user)
+        public string filePath = "M:\\web-api\\user.txt";//
+        public async  Task<User> register(User user)//Register
         {
             await _toysContext.Users.AddAsync(user);
             await _toysContext.SaveChangesAsync();
             return user;
         }
-        public async Task<User> login(User user)
+        public async Task<User> login(User user)//Login
         {
            return  await _toysContext.Users.Where(u =>  u.UserName == user.UserName && u.Password == user.Password).FirstOrDefaultAsync();
         }
-        public async Task<User> updateUser(int id, User userToUpdate)
+        public async Task<User> updateUser(int id, User userToUpdate)//UpdateUser
         {
             _toysContext.Users.Update(userToUpdate);
             await _toysContext.SaveChangesAsync();

@@ -10,7 +10,7 @@ namespace Services
 {
     public class ProductService : IProductService
     {
-        IProductRepository _ProductRepository;
+        IProductRepository _ProductRepository;//_productRepository;
         public ProductService(IProductRepository productRepository)
         {
             _ProductRepository = productRepository;
